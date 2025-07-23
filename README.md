@@ -63,7 +63,7 @@ python app.py
 ---
 
 ## 🤝 Contributing
-We welcome contributions from the community! Please open issues or submit pull requests for new features, bug fixes, or improvements.
+I welcome contributions from the community! Please open issues or submit pull requests for new features, bug fixes, or improvements.
 
 ---
 
